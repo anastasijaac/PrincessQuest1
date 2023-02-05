@@ -1,0 +1,189 @@
+monster.png
+animations: 8
+WalkingRight
+frames: 5
+frame
+clip: 60 134 49 55
+offset: 21 42
+duration: 0.1
+index: 0
+collisionBox: 9 22 31 29
+frame
+clip: 130 140 47 56
+offset: 18 38
+duration: 0.1
+index: 1
+collisionBox: 0 1 120 577
+frame
+clip: 196 141 48 50
+offset: 21 38
+duration: 0.1
+index: 2
+collisionBox: 9 15 36 39
+frame
+clip: 260 140 38 52
+offset: 15 36
+duration: 0.1
+index: 3
+collisionBox: 3 14 33 36
+frame
+clip: 309 137 58 54
+offset: 28 38
+duration: 0.1
+index: 4
+collisionBox: 14 18 36 32
+WalkingLeft
+frames: 5
+frame
+clip: 55 77 55 54
+offset: 30 40
+duration: 0.1
+index: 0
+collisionBox: 14 25 43 35
+frame
+clip: 120 81 57 52
+offset: 32 36
+duration: 0.1
+index: 1
+collisionBox: 11 18 42 28
+frame
+clip: 191 83 50 49
+offset: 30 34
+duration: 0.1
+index: 2
+collisionBox: 8 11 40 37
+frame
+clip: 253 79 43 54
+offset: 26 35
+duration: 0.1
+index: 3
+collisionBox: 9 20 32 23
+frame
+clip: 320 81 48 50
+offset: 23 35
+duration: 0.1
+index: 4
+collisionBox: 4 11 44 35
+MonsterAttack
+frames: 5
+frame
+clip: 68 410 46 36
+offset: 19 25
+duration: 0.1
+index: 0
+collisionBox: 9 19 23 11
+frame
+clip: 126 413 42 28
+offset: 25 22
+duration: 0.1
+index: 1
+collisionBox: 7 7 37 22
+frame
+clip: 192 410 35 32
+offset: 19 23
+duration: 0.1
+index: 2
+collisionBox: 4 6 38 32
+frame
+clip: 242 412 37 29
+offset: 19 20
+duration: 0.1
+index: 3
+collisionBox: 3 7 37 22
+frame
+clip: 288 408 46 34
+offset: 18 20
+duration: 0.1
+index: 4
+collisionBox: 3 12 39 20
+RIPLeft
+frames: 5
+frame
+clip: 66 200 46 48
+offset: 23 36
+duration: 0.1
+index: 0
+collisionBox: 5 19 41 29
+frame
+clip: 123 202 49 42
+offset: 30 39
+duration: 0.1
+index: 1
+collisionBox: 9 19 39 24
+hitBox: 10 20 36 23
+damage: 20
+frame
+clip: 197 197 48 46
+offset: 25 38
+duration: 0.1
+index: 2
+collisionBox: 2 20 41 24
+frame
+clip: 255 197 57 45
+offset: 30 39
+duration: 0.1
+index: 3
+collisionBox: 7 17 46 30
+frame
+clip: 317 196 63 46
+offset: 35 39
+duration: 0.1
+index: 4
+collisionBox: 13 21 51 30
+RIPRight
+frames: 5
+frame
+clip: 73 248 42 56
+offset: 12 39
+duration: 0.1
+index: 0
+collisionBox: 1 14 40 35
+frame
+clip: 136 252 38 46
+offset: 11 35
+duration: 0.1
+index: 1
+collisionBox: 3 14 33 30
+hitBox: 6 15 27 26
+damage: 20
+frame
+clip: 195 248 45 47
+offset: 20 40
+duration: 0.1
+index: 2
+collisionBox: 4 13 42 38
+frame
+clip: 257 250 51 48
+offset: 24 35
+duration: 0.1
+index: 3
+collisionBox: 4 11 43 32
+frame
+clip: 327 248 56 55
+offset: 23 37
+duration: 0.1
+index: 4
+collisionBox: 2 22 45 26
+IdleRight
+frames: 1
+frame
+clip: 73 322 32 33
+offset: 16 28
+duration: 0.1
+index: 0
+collisionBox: 6 16 21 19
+IdleLeft
+frames: 1
+frame
+clip: 68 317 38 44
+offset: 19 32
+duration: 0.1
+index: 0
+collisionBox: 9 17 29 24
+IdleUp
+frames: 1
+frame
+clip: 195 312 42 45
+offset: 21 38
+duration: 0.1
+index: 0

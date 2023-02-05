@@ -1,0 +1,37 @@
+﻿  Animation.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\Frame.h(8,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "SDL.h": No such file or directory
+  AnimationSet.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\Frame.h(8,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "SDL.h": No such file or directory
+  bigentity.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\bigentity.h(4,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "GLobale.h": No such file or directory
+  cleanup.cpp
+c1xx : fatal  error C1083: Datei (Quelle) kann nicht geöffnet werden: "cleanup.cpp": No such file or directory
+  drawing_functions.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\drawing_functions.h(5,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "SDL.h": No such file or directory
+  frame.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\frame.h(8,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "SDL.h": No such file or directory
+  Globale.cpp
+c1xx : fatal  error C1083: Datei (Quelle) kann nicht geöffnet werden: "Globale.cpp": No such file or directory
+  groupBuilder.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\groupBuilder.h(4,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "Globale.h": No such file or directory
+  LebeEntity.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\bigentity.h(4,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "GLobale.h": No such file or directory
+  main.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\main.cpp(2,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "cleanup.h": No such file or directory
+  Monster.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\bigentity.h(4,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "GLobale.h": No such file or directory
+  Princess.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\princess.h(4,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "Globale.h": No such file or directory
+  PrincessQuestSpiel.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\PrincessQuestSpiel.h(3,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "Globale.h": No such file or directory
+  randomNumber.cpp
+c1xx : fatal  error C1083: Datei (Quelle) kann nicht geöffnet werden: "randomNumber.cpp": No such file or directory
+  res_path.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\res_path.cpp(1,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "res_path.h": No such file or directory
+  TastaturEIngabe.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\TastaturEIngabe.cpp(1,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "TastaturEingabe.h": No such file or directory
+  timeControl.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\timeControl.h(6,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "SDL.h": No such file or directory
+  Wand.cpp
+C:\Users\AnastasijaCvetanovic\Downloads\PrincessQuest\PrincessQuest\PrincessQuest\Wand.cpp(1,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "Wand.h": No such file or directory
+  Code wird generiert...
